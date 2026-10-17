@@ -1,0 +1,4 @@
+kaynak/*.jpg
+kaynak/*.jpeg
+__pycache__/
+.venv/

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="435" viewBox="0 0 520 435" role="img" aria-label="Ali Cem Bozma — Grafikcem">
+<style>.k{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;fill:#f51b2b;font-weight:600}.v{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:13px;fill:#f5f3ef}.h{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:14px;fill:#f5f3ef;font-weight:700}.m{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:11px;fill:#9a978f}@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}.r{opacity:0;animation:in .35s ease-out forwards}@media (prefers-reduced-motion:reduce){.r{animation:none;opacity:1}}</style>
+<rect width="520" height="435" rx="10" fill="#121314"/>
+<rect x="0.5" y="0.5" width="519" height="434" rx="10" fill="none" stroke="#2a2b2e"/>
+<circle cx="20" cy="18" r="5" fill="#f51b2b"/><circle cx="36" cy="18" r="5" fill="#2a2b2e"/><circle cx="52" cy="18" r="5" fill="#2a2b2e"/>
+<text x="260" y="22" text-anchor="middle" class="m">neofetch</text>
+<text x="24" y="54" class="h"><tspan fill="#f51b2b">grafikcem</tspan>@github</text>
+<line x1="24" y1="64" x2="174" y2="64" stroke="#2a2b2e" stroke-width="2"/>
+<g class="r" style="animation-delay:0.60s"><text x="24" y="84" class="k">Name</text><text x="100" y="84" class="v">Ali Cem Bozma</text></g>
+<g class="r" style="animation-delay:0.69s"><text x="24" y="105" class="k">Role</text><text x="100" y="105" class="v">Graphic designer · AI-driven creative</text></g>
+<g class="r" style="animation-delay:0.78s"><text x="24" y="126" class="k">Base</text><text x="100" y="126" class="v">İstanbul, Türkiye</text></g>
+<g class="r" style="animation-delay:0.87s"><text x="24" y="147" class="k">Exp</text><text x="100" y="147" class="v">6+ years in design &amp; social media</text></g>
+<g class="r" style="animation-delay:0.96s"><text x="24" y="189" class="k">Now</text><text x="100" y="189" class="v">GrafikcemOS · my local AI agent system</text></g>
+<g class="r" style="animation-delay:1.05s"><text x="24" y="210" class="k">Build</text><text x="100" y="210" class="v">Dijital Beyin · open-source AI memory</text></g>
+<g class="r" style="animation-delay:1.14s"><text x="24" y="231" class="k">Video</text><text x="100" y="231" class="v">YouTube @grafikcem · AI in real design work</text></g>
+<g class="r" style="animation-delay:1.23s"><text x="24" y="252" class="k">Social</text><text x="100" y="252" class="v">Instagram @grafikcem · 100K+</text></g>
+<g class="r" style="animation-delay:1.32s"><text x="24" y="294" class="k">Design</text><text x="100" y="294" class="v">Figma · Adobe · Midjourney · Nano Banana</text></g>
+<g class="r" style="animation-delay:1.41s"><text x="24" y="315" class="k">Agents</text><text x="100" y="315" class="v">Claude Code · Codex · ChatGPT</text></g>
+<g class="r" style="animation-delay:1.50s"><text x="24" y="336" class="k">Code</text><text x="100" y="336" class="v">Node.js · Next.js · TypeScript</text></g>
+<g class="r" style="animation-delay:1.59s"><text x="24" y="378" class="k">Web</text><text x="100" y="378" class="v">grafikcem.com</text></g>
+<rect class="r" style="animation-delay:1.68s" x="24" y="405" width="22" height="12" rx="2" fill="#121314" stroke="#2a2b2e"/>
+<rect class="r" style="animation-delay:1.73s" x="50" y="405" width="22" height="12" rx="2" fill="#2a2b2e" stroke="#2a2b2e"/>
+<rect class="r" style="animation-delay:1.78s" x="76" y="405" width="22" height="12" rx="2" fill="#9a978f" stroke="#2a2b2e"/>
+<rect class="r" style="animation-delay:1.83s" x="102" y="405" width="22" height="12" rx="2" fill="#f5f3ef" stroke="#2a2b2e"/>
+<rect class="r" style="animation-delay:1.88s" x="128" y="405" width="22" height="12" rx="2" fill="#f51b2b" stroke="#2a2b2e"/>
+<rect class="r" style="animation-delay:1.93s" x="154" y="405" width="22" height="12" rx="2" fill="#a70f20" stroke="#2a2b2e"/>
+</svg>

@@ -1,6 +1,6 @@
 {
  "user": "grafikcemm",
- "fetched": "2026-10-24",
+ "fetched": "2026-10-25",
  "total": 8,
  "active_days": 2,
  "current_streak": 0,
@@ -10,41 +10,6 @@
   "count": 7
  },
  "days": [
-  {
-   "date": "2025-10-19",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-20",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-21",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-22",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-23",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-24",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-25",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-10-26",
    "level": 0,
@@ -1862,6 +1827,11 @@
   },
   {
    "date": "2026-10-24",
+   "level": 0,
+   "count": 0
+  },
+  {
+   "date": "2026-10-25",
    "level": 0,
    "count": 0
   }
